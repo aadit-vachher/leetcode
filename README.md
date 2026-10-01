@@ -53,6 +53,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aadit-vachher/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadit-vachher/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aadit-vachher/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
