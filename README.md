@@ -55,6 +55,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aadit-vachher/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadit-vachher/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadit-vachher/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadit-vachher/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aadit-vachher/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aadit-vachher/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
