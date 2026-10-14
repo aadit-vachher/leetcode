@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aadit-vachher/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aadit-vachher/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/aadit-vachher/leetcode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadit-vachher/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aadit-vachher/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadit-vachher/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aadit-vachher/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadit-vachher/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
