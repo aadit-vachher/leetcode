@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aadit-vachher/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadit-vachher/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aadit-vachher/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aadit-vachher/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aadit-vachher/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
