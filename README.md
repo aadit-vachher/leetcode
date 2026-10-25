@@ -19,6 +19,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadit-vachher/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadit-vachher/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aadit-vachher/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/aadit-vachher/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +188,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aadit-vachher/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
