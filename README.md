@@ -34,6 +34,7 @@ A collection of LeetCode questions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aadit-vachher/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadit-vachher/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aadit-vachher/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/aadit-vachher/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadit-vachher/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aadit-vachher/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aadit-vachher/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadit-vachher/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/aadit-vachher/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadit-vachher/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aadit-vachher/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
