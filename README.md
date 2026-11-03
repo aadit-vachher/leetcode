@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aadit-vachher/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aadit-vachher/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aadit-vachher/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aadit-vachher/leetcode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aadit-vachher/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/aadit-vachher/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadit-vachher/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aadit-vachher/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aadit-vachher/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
