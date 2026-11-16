@@ -95,6 +95,7 @@ A collection of LeetCode questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadit-vachher/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadit-vachher/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/aadit-vachher/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadit-vachher/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
