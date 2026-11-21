@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadit-vachher/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadit-vachher/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aadit-vachher/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aadit-vachher/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
@@ -100,6 +102,7 @@ A collection of LeetCode questions
 | [2409-count-days-spent-together](https://github.com/aadit-vachher/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadit-vachher/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aadit-vachher/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/aadit-vachher/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aadit-vachher/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadit-vachher/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aadit-vachher/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadit-vachher/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -246,4 +250,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadit-vachher/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
