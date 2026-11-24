@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadit-vachher/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aadit-vachher/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/aadit-vachher/leetcode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadit-vachher/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aadit-vachher/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadit-vachher/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadit-vachher/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aadit-vachher/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadit-vachher/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aadit-vachher/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aadit-vachher/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadit-vachher/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadit-vachher/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aadit-vachher/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadit-vachher/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aadit-vachher/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadit-vachher/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aadit-vachher/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aadit-vachher/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
